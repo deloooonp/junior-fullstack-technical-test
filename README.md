@@ -38,7 +38,9 @@ Mengelola data buah dari sebuah array (`fruits`) dan melakukan:
 1. Pastikan Node.js terinstall
 2. Jalankan dengan perintah:
 
+```
 node case1.js
+```
 
 ---
 
@@ -50,6 +52,14 @@ Menghitung total semua komentar dan balasannya dari struktur data bersarang meng
 - Menambahkan `1` untuk setiap komentar
 - Jika ada `replies`, menghitung balasan secara rekursif
 - Total mencakup semua level komentar
+
+### Cara Menjalankan:
+1. Pastikan Node.js terinstall
+2. Jalankan dengan perintah:
+
+```
+node case1.js
+```
 
 ---
 
