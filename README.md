@@ -5,16 +5,20 @@ Repositori ini berisi penyelesaian soal technical test untuk posisi **Junior Ful
 ---
 
 ## 📁 Struktur Folder
-```plaintext
+```
 .
 ├── case1.js           # Penyelesaian manipulasi data buah (tanpa database)
 ├── case2.js           # Penyelesaian nested comment counter (rekursif)
-├── case3-react/       # Halaman UMKM dengan ReactJS
-│   ├── src/
-│   │   └── UMKMPage.jsx
-│   ├── public/
-│   │   └── index.html
-│   └── package.json
+├── case3-react/       # Halaman UMKM CakeBahagia dengan ReactJS
+│   scripts/
+│   └── generateAssets.js
+|   ├── src/
+│   |   ├── components/
+|   │   │   ├── About.jsx
+|   │   │   ├── Contact.jsx
+|   │   │   ├── Footer.jsx
+|   │   │   ├── Hero.jsx
+|   │   │   └── Navbar.jsx
 └── README.md
 
 ```
@@ -68,6 +72,8 @@ Satu halaman sederhana dan responsif berisi:
 
 1. Masuk ke folder project React:
 
+```
 cd case3-react
 npm install
 npm run dev
+```
