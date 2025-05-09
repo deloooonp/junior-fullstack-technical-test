@@ -17,6 +17,8 @@ Repositori ini berisi penyelesaian soal technical test untuk posisi **Junior Ful
 │   └── package.json
 └── README.md
 
+```
+
 ---
 
 ## ✅ Case 1 – Data Buah
