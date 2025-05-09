@@ -58,7 +58,7 @@ Menghitung total semua komentar dan balasannya dari struktur data bersarang meng
 2. Jalankan dengan perintah:
 
 ```
-node case1.js
+node case2.js
 ```
 
 ---
