@@ -5,15 +5,17 @@ Repositori ini berisi penyelesaian soal technical test untuk posisi **Junior Ful
 ---
 
 ## 📁 Struktur Folder
-├── case1.js # Penyelesaian manipulasi data buah (tanpa database)
-├── case2.js # Penyelesaian nested comment counter (rekursif)
-├── case3-react/ # Halaman UMKM dengan ReactJS
-│ ├── src/
-│ │ └── UMKMPage.jsx
-│ ├── public/
-│ │ └── index.html
-│ └── package.json
-├── README.md
+```plaintext
+.
+├── case1.js           # Penyelesaian manipulasi data buah (tanpa database)
+├── case2.js           # Penyelesaian nested comment counter (rekursif)
+├── case3-react/       # Halaman UMKM dengan ReactJS
+│   ├── src/
+│   │   └── UMKMPage.jsx
+│   ├── public/
+│   │   └── index.html
+│   └── package.json
+└── README.md
 
 ---
 
